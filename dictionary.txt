@@ -1,0 +1,8 @@
+apple,sib
+tree,derakht
+i,man
+orange,narenji
+this,in
+is,hast
+HarryPotter,HarryPotter
+book,ketab
